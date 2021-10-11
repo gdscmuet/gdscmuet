@@ -1,4 +1,4 @@
-<p align="center"><img src="DSCMUET.png" alt="dsc-banner"></p>
+<p align="center"><img src="banner.png" alt="dsc-banner"></p>
 <br>
 
 ## Welcome to Google Developer Student Club - Mehran UET 🚀
