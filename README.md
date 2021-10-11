@@ -15,3 +15,9 @@ Mehran UET in itself gives exposure to students on all grounds. For the greater 
 <!-- <h4> ✨Visit our <a href="https://gdscmuet.netlify.app/" target="blank">WEBSITE</a> now! </h4> -->
 <h3> 🤗Connect with us at ...</h3>
 <p align="center"><a href="https://www.linkedin.com/company/gdscmuet/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="mailto:dscmuet@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dscmuet@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a> <a href="https://www.instagram.com/dscmuet/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="socials"/></a> <a href="https://twitter.com/dscmuet" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="socials"/></a><br/><br/><a href="#"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="socials"/></a> <a href="#"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="socials"/></a> <a href="https://www.facebook.com/dscmuet" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="socials"/></a></p>
+
+## Our Statistics
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gdscmuet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gdscmuet">
+</div>
